@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484628203051",
+    "firebase_url": "https://catflut-8b577.firebaseio.com",
+    "project_id": "catflut-8b577",
+    "storage_bucket": "catflut-8b577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484628203051:android:b22bdb542b084a0d188c6e",
+        "android_client_info": {
+          "package_name": "davi.com.chatflut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484628203051-7a80s961519qe70pj14si8jgk2f5h65a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "davi.com.chatflut",
+            "certificate_hash": "9e52659e7eaa1d9836d5843f291eea72f2bcfc13"
+          }
+        },
+        {
+          "client_id": "484628203051-ug555af3u7tvdlejugdv8che20b5tk76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNb4qFT_JDMULOR6RjEJ5hUnvalht5gNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484628203051-ug555af3u7tvdlejugdv8che20b5tk76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
